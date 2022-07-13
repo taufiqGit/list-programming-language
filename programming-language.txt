@@ -1,6 +1,11 @@
 List Programming Language
 
 - Javascript
+  * React
+  * Vue
+  * Svelte
 - Phyton
+  * Django
+  * Flask
 - C++
 - Golang
